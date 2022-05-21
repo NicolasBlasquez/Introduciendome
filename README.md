@@ -1,2 +1,2 @@
-👋 Hola, soy Nicolas Blasquez y estoy interesado en la programación de todo tipo, es por eso que me gusta hacer proyectos de sitios web, juegos y aplicaciones.
-Actualmente estoy estudiando acerca de la programación web y el desarrollo en C++ Y me gusta colaborar con amigos y con la comunidad.
+👋 Hola, soy Nicolas Blasquez y estoy interesado en la programación de todo tipo, pero especialmente me gusta la programacion web. Actualmente estoy estudiando HTML, CSS, JavaScript, PHP y MySQL mediante libros. Me gusta colaborar con amigos y participar en foros y comunidades.
+![Alt text](https://assets.digitalocean.com/articles/alligator/boo.svg "a title")
